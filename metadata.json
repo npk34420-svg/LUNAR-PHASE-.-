@@ -1,0 +1,5 @@
+{
+  "name": "Lunar Phase Explorer",
+  "description": "An interactive 3D-styled lunar phase simulator featuring a 30-day moon cycle visualization, celestial orbit models (Sun-Earth-Moon), and a calendar search for historical or future moon phases with a deep space aesthetic.",
+  "requestFramePermissions": []
+}
